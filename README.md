@@ -58,7 +58,3 @@ If you have any questions or comments about this Policy or our privacy practices
 
 I. CHANGES TO THIS PRIVACY POLICY
 Our Privacy Policy may change from time to time, we will post any privacy policy changes on this page, so please review it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances. If you do not agree to any modifications to this Policy, your sole recourse is to immediately stop all use of this application. Your continued use of this application following the posting of any modifications to this Policy will constitute your acceptance of the revised Policy.
-
-Wifi WPS Plus maintained by MelasGR
-
-Published with GitHub Pages
