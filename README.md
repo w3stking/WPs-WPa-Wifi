@@ -16,7 +16,7 @@ a. Personal Information. We do not collect Personal Information. “Personal Inf
 b. Non-personal identification. We may collect non-personal identification information, the information you give us, for example, when you give us your opinions to our application and services via our email address, such as your email address, and names;
 
 Also, we may collect non-personal identification information from Advertisements (AdMob - AdSense)
-[This app (Wifi WPS Plus) use AdMob - AdSense]
+[This app (WPS WPA WIFI) use AdMob - AdSense]
 
 Google Privacy Policies:
 1) https://www.google.com/policies/privacy/partners/
@@ -53,7 +53,7 @@ We ask that you not send us, and you not disclose, any sensitive Personal Inform
 
 
 H. CONTACTING US / REPORTING VIOLATIONS
-If you have any questions or comments about this Policy or our privacy practices, or to report any violations of the Policy or abuse of an Application, the Services or the Site, please contact us at melaspanagiotis@gmail.com.
+If you have any questions or comments about this Policy or our privacy practices, or to report any violations of the Policy or abuse of an Application, the Services or the Site, please contact us at newtechappw3st@gmail.com
 
 
 I. CHANGES TO THIS PRIVACY POLICY
